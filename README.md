@@ -62,7 +62,7 @@ The UI is a strict **monochromatic corporate design** with WCAG-compliant contra
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/news-blog-perf-opt.git
+git clone https://github.com/y-ro9/news-blog-perf-opt.git
 cd news-blog-perf-opt
 
 # 2. Install dependencies
@@ -93,7 +93,7 @@ npm run preview
 
 This project follows strict Test-Driven Development. The test suite (src/components/PerformanceOptimization.test.jsx) was written before the component itself.
 
-Coverage — 10 tests
+```Coverage — 10 tests
 
 #	Test					Guard Against
 
@@ -107,6 +107,7 @@ Coverage — 10 tests
 8	Toggling status fires analytics		Missing telemetry
 9	All controls have accessible labels	a11y regression
 10	sanitizeInput unit tests (4 cases)	Utility drift
+```
 
 ### Run them with:
 
