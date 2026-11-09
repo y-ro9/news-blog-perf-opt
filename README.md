@@ -217,7 +217,7 @@ news-blog-perf-opt/
 
 ## 🔗 Live Demo
 
-    Deployed URL: [https://news-blog-perf-opt.vercel.app](https://news-blog-perf-opt.vercel.app/)
+Deployed URL: [https://news-blog-perf-opt.vercel.app](https://news-blog-perf-opt.vercel.app/)
 
 ## 📜 License
 
