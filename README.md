@@ -224,6 +224,8 @@ news-blog-perf-opt/
 MIT — internal client deliverable for **News Blog**.
 
 Assignee: **Yash Raj**
+
 **Reporter:** Amit Sharma (Senior Staff Engineer)
+
 **Tech Lead:** Deepika Kumari
 
