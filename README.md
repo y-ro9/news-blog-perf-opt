@@ -13,7 +13,7 @@
 
 ## 📖 Overview
 
-This module was built under ticket **ENG-84718** (Epic: *Core Infrastructure Overhaul*, Priority: **P1**) after News Blog's operations team reported **massive data loss and operational slowdowns** caused by manual paper-based tracking.
+This module was built after News Blog's operations team reported **massive data loss and operational slowdowns** caused by manual paper-based tracking.
 
 The component gives floor staff a single, reliable place to:
 
